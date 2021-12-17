@@ -1,0 +1,16 @@
+package game.interaction;
+
+public class Main03 {
+
+	public static void main(String[] args) {
+		Magicion m1 = new Magicion();
+		Archer a1 = new Archer();
+		
+		w1.huntTroll(t1);
+    	w1.huntTroll(t1);
+    	w1.huntTroll(t1);
+    	w1.huntTroll(t1);
+
+	}
+
+}

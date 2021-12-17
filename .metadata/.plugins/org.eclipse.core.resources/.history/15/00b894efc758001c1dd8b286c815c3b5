@@ -1,0 +1,9 @@
+package constructor;
+
+public class A_Car {
+	
+	// 자동차의 상태(속성)를 나타내는 변수들
+	public int gas;
+	public int speed;
+	public String owner;
+}

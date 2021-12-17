@@ -1,0 +1,18 @@
+package constructor;
+
+public class B_Main01P204 {
+
+	public static void main(String[] args) {
+		// 자동차 한 대를 만들어주세요.
+		// 연료량은 100
+		// 속도는 0
+		// 주인은 본인이름으로 만들어주세요.
+		
+		A_Car asdf = new A_Car();
+		asdf.gas = 100; 
+	    asdf.speed = 0;
+		asdf.owner = "고정욱";
+		asdf.getInfo();
+	}
+
+}

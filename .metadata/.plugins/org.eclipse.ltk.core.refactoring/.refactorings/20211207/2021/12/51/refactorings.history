@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;C_BreakQ01P120&apos; to &apos;C_BreakQ01P120MMMMMMMMMMMM&apos;&#x0D;&#x0A;- Original project: &apos;20211207&apos;&#x0D;&#x0A;- Original element: &apos;C_BreakQ01P120&apos;&#x0D;&#x0A;- Renamed element: &apos;C_BreakQ01P120MMMMMMMMMMMM&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;C_BreakQ01P120&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{C_BreakQ01P120.java[C_BreakQ01P120" matchStrategy="1" name="C_BreakQ01P120MMMMMMMMMMMM" qualified="false" references="true" similarDeclarations="false" stamp="1639444624811" textual="false" version="1.0"/>
+</session>

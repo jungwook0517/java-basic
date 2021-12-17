@@ -1,0 +1,10 @@
+package heapmemory;
+
+public class A_ArrayComparison {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
