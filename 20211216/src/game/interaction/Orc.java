@@ -14,10 +14,12 @@ public class Orc {
 	// doBattle은 유저의 공격력을 받아 오크의 체력을 차감합니다.
 	public void doBattle(int uAtk) {
 		// Orc의 체력을 유저 공격력 만큼 차감시켜주세요.
-		hp = (hp +def) - uAtk;
+		hp = (hp + def) - uAtk;
 		System.out.println("오크의 남은 체력 : " + hp);
 	}
-
+	
+	
+	//getter/setter를 Warrior, Orc에 만들어주세요.
 	public int getHp() {
 		return hp;
 	}
@@ -41,5 +43,4 @@ public class Orc {
 	public void setDef(int def) {
 		this.def = def;
 	}
-
 }

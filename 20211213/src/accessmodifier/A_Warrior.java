@@ -25,7 +25,7 @@ public class A_Warrior {//정의부. 실제 실행은 Main에서 할 예정임.
         def = 0;
         exp = 0;
         System.out.println("전사 생성 완료");
-        System.out.println("아이디 : " + name + ", 레벨 : " +lv);
+        System.out.println("아이디 : " + name + ", 레벨 : " + lv);
 	}
 	
 	// hunt 메서드를 만들어보겠습니다.

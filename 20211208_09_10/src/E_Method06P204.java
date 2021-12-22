@@ -23,6 +23,8 @@ public class E_Method06P204 {
 		// mul을 호출해 결과값을 int result에 저장한다음 콘솔에 출력하기
 		int result = mul(10, 20, 30);
 		System.out.println(result);
+		
+		
 		// info메서드 반복문으로 3번 호출하기
 		for(int i = 0; i < 3; i++) {
 			info();

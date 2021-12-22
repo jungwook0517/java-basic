@@ -1,8 +1,0 @@
-package structure;
-
-public class D_Cat {
-	
-	public String name;
-	public int age;
-	public String kind;
-}

@@ -12,7 +12,7 @@ public class A_Item {
 	// 소멸자 finalize()
 	// 생성자는 객체가 생성될 때 반드시 호출되고
 	// 소멸자는 객체가 소멸될 때 호출됩니다.
-	protected void finalize( ) {
+	protected void finalize() {
 		System.out.println(num + "객체 삭제.");
 	}
 }
