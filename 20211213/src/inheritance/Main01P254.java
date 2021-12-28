@@ -12,6 +12,7 @@ public class Main01P254 {
 		
 		s1.getInfo();
 		s1.getStudentInfo();
+		
 
 	}
 

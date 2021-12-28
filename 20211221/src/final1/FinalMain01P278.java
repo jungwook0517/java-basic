@@ -5,7 +5,7 @@ public class FinalMain01P278 {
 	public static void main(String[] args) {
 		// 상수를 선언할때는 자료형 왼쪽에 final 키워드를 붙인다
 		final int a = 50;
-		// 상수는 조회하는데에는 제약이 없다.
+		// 상수는 조회하는데에는 제약이 없다
 		System.out.println(a);
 		// 값을 변경하려고 하면 에러가 난다.
 		//a = 500;
@@ -17,7 +17,5 @@ public class FinalMain01P278 {
 		b = 50;
 		System.out.println(b);
 		//b = 60;
-
 	}
-
 }

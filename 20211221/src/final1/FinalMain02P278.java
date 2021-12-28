@@ -8,7 +8,7 @@ public class FinalMain02P278 {
 		System.out.println(50);
 		//System.out.println("몬스터의 경험치 : " + 20);
 		System.out.println(20);
-		
+
 		// 자주 사용하게될 고정값은 아래와 같이 상수 처리해서
 		// 코드에 대입을 해줍니다.
 		// 이러면 변수명만으로도 어떤 의미를 가진 수치인지
@@ -26,8 +26,5 @@ public class FinalMain02P278 {
 		System.out.println(MONSTER_EXP);
 		System.out.println(WARRIOR_HP);
 		System.out.println(MONSTER_EXP);
-	
-
 	}
-
 }
